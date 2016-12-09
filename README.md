@@ -1,6 +1,3 @@
-# roboarm-mini
-Robotic arm with 8-bit microprocessor
-
 #Overview:
 The goal of this project was to create a robotic arm with 3 degrees of freedom while learning about embedded processors that have limited capacity, such as the PIC16F690 8-bit processor.
 
@@ -15,6 +12,8 @@ Controlling 4 servos with a single PMW module.
 
 #Design:
 The design of the robot arm was based on the open source [uARM model] (https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your) (originally a kickstarter project). However to save on costs, we simply downloaded the designs and used a laser cutter to cut all the parts required out of plexiglass.
+
+<img src="https://github.com/ced92/roboarm-mini/raw/master/img/arm.png" width="500">
 
 The design files are available [here] (http://www.thingiverse.com/thing:367431/#files)
 and assembly instructions [here] (https://cdn.thingiverse.com/assets/dc/ae/c2/94/d0/Latest_greatest_uArm_Assembly_Instructions_v1.pdf)
